@@ -1,9 +1,13 @@
 header {
-  align-items: center;
   background-image: url(https://images.squarespace-cdn.com/content/v1/54bda41be4b0f0fba7fd569f/1586745436811-RULNFIPURMJYYQARR5EY/DSC_9457.jpg?format=2500w);
-  background-position: center top;
-  background-repeat: no-repeat;
+  width: 100vw;
+  height: 80vh;
+  overflow-x: hidden;
   background-size: cover;
-  min-height: 100vh;
-  margin-top: 0%;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
 }
