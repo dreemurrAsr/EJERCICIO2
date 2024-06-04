@@ -4,10 +4,21 @@ header {
   height: 80vh;
   overflow-x: hidden;
   background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 body {
   width: 100vw;
   height: 100vh;
   margin: 0;
+}
+
+.titulo {
+  width: 40%;
+  text-align: center;
+  color: aliceblue;
+  font-size: x-large;
+  font-family: sans-serif;
 }
